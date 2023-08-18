@@ -1,0 +1,37 @@
+img{
+	height: 80%;
+	width: 60%;
+}
+.p2{
+	color: gray;
+
+}
+#s1{
+	margin-left: 8%;
+}
+#s2{
+	width: 100%;
+}
+.c1{
+	margin-left: 10%;
+	margin-top: 2%;
+}
+
+.b1{
+	width: 100%;
+}
+.b{
+	padding-right: 10%;
+}
+.g{
+	margin-top: 4%;
+	color: gray;
+	text-align: center;
+}
+#s3{
+	color: blue;
+}
+.abcd{
+	text-decoration: none;
+	margin-left: 3%;
+}
